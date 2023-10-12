@@ -29,7 +29,7 @@
       </div>
     </div>
 
-    <div class="mt-2git0 border-t border-gray-text py-10 flex justify-center">
+    <div class="mt-20 border-t border-gray-text py-10 flex justify-center">
       <span class="text-xs text-gray-text">
         © Sublime Concursos — Todos os direitos reservados
       </span>
