@@ -17,7 +17,7 @@
         <SocialMediaLinks />
       </div>
 
-      <form class="h-full">
+      <div class="h-full">
         <h4 class="text-white font-bold text-2xl pl-2">Receba Nossas Novidades</h4>
 
         <form
@@ -39,11 +39,14 @@
               required="true"
             />
           </div>
-          <button class="bg-primary-blue px-4 py-2 text-white rounded-full">
+          <button
+            class="bg-primary-blue xs:w-full md:w-40 px-4 py-2 text-white rounded-full"
+            type="submit"
+          >
             Inscrever-se
           </button>
         </form>
-      </form>
+      </div>
     </div>
 
     <div class="mt-20 border-t border-gray-text py-10 flex justify-center">

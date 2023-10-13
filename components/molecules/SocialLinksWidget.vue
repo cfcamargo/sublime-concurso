@@ -1,6 +1,6 @@
 <template>
   <div class="w-full fixed bottom-0 left-0 right-0 z-50" id="widget">
-    <Container class="flex justify-end py-6 relative">
+    <Container class="flex justify-end py-6 relative px-2">
       <button
         class="rounded-full bg-primary-blue w-10 h-10 flex justify-center items-center shadow-sm"
         type="button"
