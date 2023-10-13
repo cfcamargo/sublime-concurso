@@ -9,6 +9,7 @@
   <Faq />
   <CtaBanner />
   <Footer />
+  <SocialLinksWidget />
 </template>
 
 <script setup lang="ts"></script>

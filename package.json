@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@videojs-player/vue": "^1.0.0",
+    "animate.css": "^4.1.1",
     "lucide-vue-next": "^0.286.0",
     "nuxt-swiper": "^1.2.2",
     "video.js": "^7.21.5"
