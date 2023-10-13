@@ -31,10 +31,10 @@
 
 <script setup lang="ts">
 const list = [
-  "Direcionamento Personalizado",
-  "Estratégias de Estudo Eficientes",
-  "Resolução de Dúvidas e Feedback Construtivo",
-  "Motivação e Foco",
-  "Acompanhamento Constante",
+  "Direcionamento Personalizado;",
+  "Estratégias de Estudo Eficientes;",
+  "Resolução de Dúvidas e Feedback Construtivo;",
+  "Motivação e Foco;",
+  "Acompanhamento Constante.",
 ];
 </script>
