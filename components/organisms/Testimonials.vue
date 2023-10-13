@@ -6,7 +6,7 @@
       >
         <span class="text-gray-text text-xs">Depoimentos</span>
       </div>
-      <h4 class="text-white text-5xl max-w-[700px] mt-4 font-bold">
+      <h4 class="text-white xs:text-3xl md:text-5xl max-w-[700px] mt-4 font-bold">
         Veja o que nossos alunos tem a dizer sobre nossa acessoria
       </h4>
     </div>

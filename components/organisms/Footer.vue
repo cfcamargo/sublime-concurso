@@ -25,7 +25,7 @@
           method="post"
           id="mc-embedded-subscribe-form"
           name="mc-embedded-subscribe-form"
-          class="flex gap-4"
+          class="flex xs:flex-col md:flex-row gap-4"
           target="_blank"
           cl
         >

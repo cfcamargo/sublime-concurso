@@ -3,7 +3,7 @@
     <Container>
       <div class="grid xs:grid-cols-1 md:grid-cols-2 xs:py-10md:py-40 items-center">
         <div class="flex flex-col gap-6 py-10">
-          <h4 class="text-5xl font-bold text-white">Esteja Pronto</h4>
+          <h4 class="xs:text-3xl md:text-5xl font-bold text-white">Esteja Pronto</h4>
           <p class="text-gray-text">
             A jornada rumo aos seus objetivos exige preparação, comprometimento e
             dedicação. Esteja pronto para enfrentar os desafios, aprender, crescer e

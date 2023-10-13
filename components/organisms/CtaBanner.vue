@@ -1,7 +1,7 @@
 <template>
   <Container>
     <div
-      class="w-full grid xs:grid-cols-1 gap-6 md:grid-cols-2 bg-gray-light p-14 rounded-3xl"
+      class="w-full grid xs:grid-cols-1 gap-6 md:grid-cols-2 bg-gray-light xs:p-6 md:p-14 rounded-3xl"
     >
       <div class="flex flex-col gap-4">
         <h4 class="font-bold text-2xl text-white">

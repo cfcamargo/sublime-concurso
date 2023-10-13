@@ -6,7 +6,7 @@
       </div>
 
       <div class="flex flex-col gap-8">
-        <h4 class="text-white text-5xl font-bold">
+        <h4 class="text-white xs:text-3xl md:text-5xl font-bold">
           Caminho para o Sucesso nos Concursos Mais Concorridos
         </h4>
 

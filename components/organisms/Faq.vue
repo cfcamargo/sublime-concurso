@@ -6,7 +6,9 @@
       >
         <span class="text-gray-text text-xs">Faq</span>
       </div>
-      <h4 class="text-white text-4xl font-bold px-2 mt-2">Perguntas frequentes</h4>
+      <h4 class="text-white xs:text-3xl md:text-4xl font-bold px-2 mt-2">
+        Perguntas frequentes
+      </h4>
     </div>
 
     <div class="flex flex-col gap-4">
