@@ -14,7 +14,7 @@
         leave-active-class="animate__animated animate__fadeOutDown"
       >
         <div
-          class="absolute -top-44 -right-1 flex flex-col gap-4 focus:outline-none"
+          class="absolute -top-44 xs:right-2 md:-right-1 flex flex-col gap-4 focus:outline-none"
           v-if="show"
         >
           <a
