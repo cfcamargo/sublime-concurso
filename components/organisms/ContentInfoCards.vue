@@ -11,7 +11,10 @@
             direta com o professor Alexandre, para tirar todas suas dúvidas e iniciar sua
             jornada de estudos.
           </p>
-          <CtaButton text="Contato" href="#" />
+          <CtaButton
+            text="Contato"
+            href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero tirar algumas dúvidas sobre a acessoria"
+          />
         </div>
 
         <div class="grid xs:grid-cols-1 md:grid-cols-2 gap-10">

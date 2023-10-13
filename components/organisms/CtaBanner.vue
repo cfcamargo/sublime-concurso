@@ -15,8 +15,14 @@
       </div>
 
       <div class="w-full flex xs:flex-col md:flex-row items-center justify-center gap-4">
-        <CtaButton href="#" text="Comprar" />
-        <SecondaryButton href="#" text="Contato" />
+        <CtaButton
+          href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero Ser aluno da acessoria"
+          text="Comprar"
+        />
+        <SecondaryButton
+          href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero tirar algumas dúvidas sobre a acessoria"
+          text="Contato"
+        />
       </div>
     </div>
   </Container>

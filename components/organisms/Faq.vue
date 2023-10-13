@@ -10,13 +10,35 @@
     </div>
 
     <div class="flex flex-col gap-4">
-      <Question />
-      <Question />
-      <Question />
-      <Question />
-      <Question />
+      <Question
+        v-for="question in questions"
+        :key="question.question"
+        :question="question.question"
+        :awnser="question.awnser"
+      />
     </div>
   </Container>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+const questions = [
+  {
+    question: "O curso serve para qualquer concurso",
+    awnser: "Sim. O Curso abrange qualquer edital, independente da área",
+  },
+  {
+    question: "Como é feito o envio das questões comentadas ?",
+    awnser: "Por meio de listas de transmissão no Whatsapp",
+  },
+  {
+    question: "Quanto tempo de acesso à plataforma e aos conteudos ?",
+    awnser: "São cinco meses de acesso, conteúdos e dicas de estudo",
+  },
+  {
+    question:
+      "Logo que finalizar a compra, terei uma chamada direta com o professor Alexandre ?",
+    awnser:
+      "Sim, ao finalizar o seu pedido, terá o agendamento de uma vídeo chamada para alinhamento do plano e dúvidas",
+  },
+];
+</script>

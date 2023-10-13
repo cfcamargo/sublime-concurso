@@ -17,7 +17,7 @@
     </a>
 
     <a
-      href="#"
+      href="https://api.whatsapp.com/send?phone=5545999059507"
       target="_blank"
       class="rounded-full w-9 h-9 flex justify-center items-center border border-[#75757F]"
     >

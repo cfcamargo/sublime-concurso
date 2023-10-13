@@ -2,7 +2,9 @@
   <Container class="py-32 mt-20">
     <div class="grid xs:grid-cols-1 md:grid-cols-2 items-center gap-32">
       <div class="flex flex-col gap-4">
-        <h4 class="text-white">SUBLIME CONCURSOS</h4>
+        <div class="w-[250px]">
+          <Logo />
+        </div>
 
         <p class="text-gray-text">
           Somos uma equipe dedicada a realizar sonhos. Acreditamos no potencial de todos
@@ -15,18 +17,33 @@
         <SocialMediaLinks />
       </div>
 
-      <div class="h-full">
+      <form class="h-full">
         <h4 class="text-white font-bold text-2xl pl-2">Receba Nossas Novidades</h4>
 
-        <div class="flex gap-4 w-full mt-4">
+        <form
+          action="https://hotmail.us9.list-manage.com/subscribe/post?u=c84d7e56ba74cbb820dfd2a8c&amp;id=603cae3d4c&amp;f_id=00c91ae1f0"
+          method="post"
+          id="mc-embedded-subscribe-form"
+          name="mc-embedded-subscribe-form"
+          class="flex gap-4"
+          target="_blank"
+          cl
+        >
           <div class="px-4 py-2 border border-gray-text rounded-full flex-1">
-            <input type="text" placeholder="Digite seu e-mail" class="bg-transparent" />
+            <input
+              type="email"
+              name="EMAIL"
+              class="bg-transparent w-full focus:outline-none focus:bg-transparent text-white"
+              placeholder="Digite seu e-mail"
+              id="mce-EMAIL"
+              required="true"
+            />
           </div>
           <button class="bg-primary-blue px-4 py-2 text-white rounded-full">
             Inscrever-se
           </button>
-        </div>
-      </div>
+        </form>
+      </form>
     </div>
 
     <div class="mt-20 border-t border-gray-text py-10 flex justify-center">
