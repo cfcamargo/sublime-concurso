@@ -33,7 +33,7 @@
             <input
               type="email"
               name="EMAIL"
-              class="bg-transparent w-full focus:outline-none focus:bg-transparent text-white"
+              class="bg-transparent w-full focus:outline-none focus:bg-transparent text-white flex-1"
               placeholder="Digite seu e-mail"
               id="mce-EMAIL"
               required="true"
