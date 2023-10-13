@@ -10,7 +10,7 @@
         Veja o que nossos alunos tem a dizer sobre nossa acessoria
       </h4>
     </div>
-    <div class="flex justify-between">
+    <div class="flex justify-between xs:flex-col md:flex-row gap-6">
       <TestimonialCard />
       <TestimonialCard />
       <TestimonialCard />

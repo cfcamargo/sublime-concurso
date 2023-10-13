@@ -14,7 +14,10 @@ export default {
         'gray-light': '#19191D',
         'gray-text' : '#9C9C9C',
         'primary-blue' : '#3D96F4'
-      }
+      },
+      screens: {
+        'xs': '360px',
+    }
     },
   },
   plugins: [],

@@ -1,6 +1,6 @@
 <template>
   <Container class="py-32 mt-20">
-    <div class="grid grid-cols-2 items-center gap-32">
+    <div class="grid xs:grid-cols-1 md:grid-cols-2 items-center gap-32">
       <div class="flex flex-col gap-4">
         <h4 class="text-white">SUBLIME CONCURSOS</h4>
 
