@@ -11,11 +11,11 @@
         </h4>
 
         <p class="text-gray-text">
-          Em uma corrida em que a vitória é disputada por milhares, a acessoria se
+          Em uma corrida em que a vitória é disputada por milhares, a assessoria se
           apresenta como o diferencial absoluto. Imagine ter um guia personalizado,
           estratégias afiadas e suporte especializado ao seu lado, tudo isso direcionado
           para uma única meta: a aprovação. Seu lugar nos concursos de elite está ao
-          alcance das mãos, e a acessoria é a chave para tornar esse sonho realidade.
+          alcance das mãos, e a assessoria é a chave para tornar esse sonho realidade.
         </p>
 
         <ul class="flex flex-col gap-4">

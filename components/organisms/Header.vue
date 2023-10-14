@@ -7,7 +7,7 @@ import { CtaButton } from '#build/components';
       </div>
       <CtaButton
         text="Contato"
-        href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero Tirar algumas duvidas sobre a Acessoria"
+        href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero Tirar algumas duvidas sobre a assessoria"
         class="xs:hidden md:flex"
       />
     </Container>

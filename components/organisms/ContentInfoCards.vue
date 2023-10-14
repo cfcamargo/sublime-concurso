@@ -7,13 +7,11 @@
           <p class="text-gray-text">
             A jornada rumo aos seus objetivos exige preparação, comprometimento e
             dedicação. Esteja pronto para enfrentar os desafios, aprender, crescer e
-            superar obstáculos. Ao realizar a sua compra, você fará uma video chamada
-            direta com o professor Alexandre, para tirar todas suas dúvidas e iniciar sua
-            jornada de estudos.
+            superar obstáculos.
           </p>
           <CtaButton
             text="Quero minha vaga"
-            href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero tirar algumas dúvidas sobre a acessoria"
+            href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero tirar algumas dúvidas sobre a assessoria"
           />
         </div>
 
@@ -42,7 +40,7 @@
             <InfoCards
               icon="whats"
               title="Conteúdo Diário"
-              description="Nosso suporte ao aluno está sempre à disposição. Estamos aqui para auxiliá-lo em sua jornada de estudos."
+              description="Conteudos dirários RLM diretamente em seu whatsaapp"
             />
           </div>
         </div>

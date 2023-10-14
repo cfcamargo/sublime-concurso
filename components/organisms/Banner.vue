@@ -19,7 +19,7 @@
           <CtaButton
             class="w-[200px]"
             text="Quero minha vaga"
-            href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero Ser aluno da acessoria"
+            href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero Ser aluno da assessoria"
           />
         </div>
 

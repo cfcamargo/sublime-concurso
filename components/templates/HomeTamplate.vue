@@ -4,6 +4,7 @@
   <BancasBanner />
   <ContentInfoCards />
   <VideoSection />
+  <VideoCtaBanner />
   <ContentInfoList />
   <Testimonials />
   <Faq />
