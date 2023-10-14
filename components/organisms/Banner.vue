@@ -11,9 +11,9 @@
           </h2>
 
           <p class="text-gray-text">
-            Acesso Exclusivo a Conteúdo de Raciocínio Lógico e Matemático Todos os Dias no
-            Seu WhatsApp. Plataforma de organização dos estudos que revolucionará sua
-            aprovação
+            Transforme sua preparação para concursos com nossa assessoria especializada.
+            Nossos métodos comprovados e suporte personalizado vão revolucionar seus
+            estudos e aumentar suas chances de sucesso.
           </p>
 
           <CtaButton
