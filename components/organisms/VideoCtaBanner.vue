@@ -5,17 +5,16 @@
     >
       <div class="flex flex-col gap-4">
         <h4 class="font-bold text-2xl text-white">
-          Conquiste o Sucesso Acadêmico com Orientação Exclusiva do Professor Alexandre!
+          Conquiste o Sucesso com a Orientação Exclusiva do Professor Alexandre!
         </h4>
 
         <p class="text-gray-text">
-          Ao se inscrever no curso, você vai além do conhecimento: ganhe um encontro
-          exclusivo em videochamada com o Professor Alexandre. Esta é uma rara
-          oportunidade de ter suas dúvidas esclarecidas, definir metas e planejar seus
-          estudos de forma estratégica e personalizada. Não apenas aprenda, mas eleve seus
-          estudos a um patamar superior com uma orientação direta e individualizada de um
-          especialista renomado no campo. A sua jornada para o sucesso tem um aliado de
-          peso.
+          Ao se inscrever no curso, você terá esse bonus: ganhe um encontro exclusivo em
+          videochamada com o Professor Alexandre. Esta é uma rara oportunidade de ter suas
+          dúvidas esclarecidas, definir metas e planejar seus estudos de forma estratégica
+          e personalizada. Não apenas aprenda, mas eleve seus estudos a um patamar
+          superior com uma orientação direta e individualizada de um especialista renomado
+          no campo. A sua jornada para o sucesso tem um aliado de peso.
         </p>
       </div>
 

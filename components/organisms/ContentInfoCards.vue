@@ -5,9 +5,9 @@
         <div class="flex flex-col gap-6 py-10">
           <h4 class="xs:text-3xl md:text-5xl font-bold text-white">Esteja Pronto</h4>
           <p class="text-gray-text">
-            Imagine ter acesso exclusivo a conteúdo de Raciocínio Lógico e Matemático
-            todos os dias no seu WhatsApp. Combine isso com uma plataforma de organização
-            de estudos que está prestes a revolucionar sua jornada rumo à aprovação.
+            Imagine ter acesso exclusivo a conteúdo de Raciocínio Lógico Matemático todos
+            os dias no seu WhatsApp. Combine isso com uma plataforma de organização de
+            estudos que está prestes a revolucionar sua jornada rumo à aprovação.
             Preparação, comprometimento e dedicação são essenciais para alcançar seus
             objetivos. Estamos aqui para ajudá-lo a enfrentar os desafios, aprender,
             crescer e superar obstáculos. Não perca a oportunidade de transformar sua
