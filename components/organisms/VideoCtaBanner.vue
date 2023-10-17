@@ -20,7 +20,7 @@
 
       <div class="w-full flex xs:flex-col md:flex-row items-center justify-center gap-4">
         <CtaButton
-          href="https://api.whatsapp.com/send?phone=5545999059507&text=Quero Ser aluno da assessoria"
+          href="https://api.whatsapp.com/send?phone=5544991439507&text=Olá, Professor Alexandre, quero ser aluno do seu curso."
           text="Quero ser aluno"
         />
       </div>
