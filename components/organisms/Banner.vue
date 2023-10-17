@@ -19,7 +19,7 @@
           <CtaButton
             class="w-[200px]"
             text="Quero minha vaga"
-            href="https://api.whatsapp.com/send?phone=5544991439507&text=Olá, Professor Alexandre. Quero ser aluno do seu curso"
+            href="https://api.whatsapp.com/send?phone=5544991439507&text=Olá, Professor Alexandre. Quero ser aluno do seu curso."
           />
         </div>
 
