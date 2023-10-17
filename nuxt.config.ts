@@ -20,7 +20,7 @@ export default defineNuxtConfig({
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
-      title: 'assessoria - Sublime Concursos',
+      title: 'Assessoria - Sublime Concursos',
       meta: [
         { hid: 'charset', charset: 'utf-8' },
         { hid: 'viewport', name: 'viewport', content: 'width=device-width, initial-scale=1' },

@@ -1,6 +1,7 @@
 <template>
   <video-player
-    src="/teste.mp4"
+    src="/apresentacao.mp4"
+    poster="/videocover.png"
     controls
     :loop="false"
     :volume="0.6"
@@ -33,5 +34,4 @@ const videoClasses = computed(() => {
   const hClass = `h-full`;
   return [wClass, hClass];
 });
-// poster="/your-path/poster.jpg"
 </script>
