@@ -7,8 +7,6 @@
         </div>
 
         <p class="text-gray-text">
-          Somos uma equipe dedicada a realizar sonhos. Acreditamos no potencial de todos
-          para alcançar seus objetivos, seja na carreira pública ou em outras aspirações.
           Oferecemos uma assessoria completa, com orientação personalizada e recursos de
           qualidade, para guiar você em direção ao sucesso. Sua conquista é nossa maior
           recompensa, e estamos aqui para ajudá-lo a realizar seus sonhos.

@@ -5,8 +5,9 @@
         class="flex xs:gap-6 md:gap-0 xs:flex-col md:flex-row items-center h-[calc(100vh_-_80px)]"
       >
         <div class="flex-1 flex flex-col xs:items-center md:items-start gap-10">
-          <h2 class="text-white xs:text-3xl md:text-5xl font-bold relative">
-            Conquiste a Aprovação em Qualquer Concurso
+          <h2 class="text-white xs:text-2xl md:text-4xl font-bold relative">
+            O planejamento, a organização, a disciplina e o diferencial para passar em
+            qualquer concurso concurso você encontrará aqui.
             <Circles class="absolute -top-6 -left-6" />
           </h2>
 
@@ -15,12 +16,6 @@
             Nossos métodos comprovados e suporte personalizado vão revolucionar seus
             estudos e aumentar suas chances de sucesso.
           </p>
-
-          <CtaButton
-            class="w-[200px]"
-            text="Quero minha vaga"
-            href="https://api.whatsapp.com/send?phone=5544991439507&text=Olá, Professor Alexandre. Quero fazer parte do seu time e adquirir seu curso!"
-          />
         </div>
 
         <div class="flex-1 flex justify-end">

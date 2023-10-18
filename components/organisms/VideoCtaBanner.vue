@@ -20,8 +20,9 @@
 
       <div class="w-full flex xs:flex-col md:flex-row items-center justify-center gap-4">
         <CtaButton
+          class="w-[200px]"
+          text="Quero minha vaga"
           href="https://api.whatsapp.com/send?phone=5544991439507&text=Olá, Professor Alexandre. Quero fazer parte do seu time e adquirir seu curso!"
-          text="Quero ser aluno"
         />
       </div>
     </div>
