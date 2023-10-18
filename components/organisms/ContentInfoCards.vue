@@ -44,7 +44,7 @@
             <InfoCards
               icon="whats"
               title="Conteúdo Diário"
-              description="Conteudos dirários RLM diretamente em seu whatsaapp"
+              description="Conteudos dirários de RLM diretamente em seu WhatsApp"
             />
           </div>
         </div>
