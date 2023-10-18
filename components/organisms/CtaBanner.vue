@@ -16,7 +16,7 @@
 
       <div class="w-full flex xs:flex-col md:flex-row items-center justify-center gap-4">
         <CtaButton
-          href="https://api.whatsapp.com/send?phone=5544991439507&text=Olá, Professor Alexandre. Quero ser aluno do seu curso."
+          href="https://api.whatsapp.com/send?phone=5544991439507&text=Olá, Professor Alexandre. Quero fazer parte do seu time e adquirir seu curso!"
           text="Quero minha vaga"
         />
         <SecondaryButton
