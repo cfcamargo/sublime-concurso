@@ -7,7 +7,7 @@
         <div class="flex-1 flex flex-col xs:items-center md:items-start gap-10">
           <h2 class="text-white xs:text-2xl md:text-4xl font-bold relative">
             O planejamento, a organização, a disciplina e o diferencial para passar em
-            qualquer concurso concurso você encontrará aqui.
+            qualquer concurso você encontrará aqui.
             <Circles class="absolute -top-6 -left-6" />
           </h2>
 
