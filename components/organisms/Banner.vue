@@ -4,8 +4,10 @@
       <div
         class="flex xs:gap-6 md:gap-0 xs:flex-col md:flex-row items-center h-[calc(100vh_-_80px)]"
       >
-        <div class="flex-1 flex flex-col xs:items-center md:items-start gap-10">
-          <h2 class="text-white xs:text-2xl md:text-4xl font-bold relative">
+        <div
+          class="xs:flex-1 md:w-[35%] flex flex-col xs:items-center md:items-start gap-10"
+        >
+          <h2 class="text-white xs:text-2xl md:text-3xl font-bold relative">
             O planejamento, a organização, a disciplina e o diferencial para passar em
             qualquer concurso você encontrará aqui.
             <Circles class="absolute -top-6 -left-6" />
@@ -19,7 +21,7 @@
         </div>
 
         <div class="flex-1 flex justify-end">
-          <img src="/cover.png" alt="" />
+          <img src="/carreiras.png" alt="" class="w-full" />
         </div>
       </div>
     </Container>

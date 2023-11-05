@@ -5,11 +5,6 @@ import { CtaButton } from '#build/components';
       <div class="w-[250px]">
         <Logo />
       </div>
-      <CtaButton
-        text="Contato"
-        href="https://api.whatsapp.com/send?phone=5544991439507&text=Olá, Professor Alexandre. Quero fazer parte do seu time e adquirir seu curso!"
-        class="xs:hidden md:flex"
-      />
     </Container>
   </header>
 </template>
