@@ -1,7 +1,7 @@
 <template>
   <Container class="py-20">
     <div class="grid xs:grid-cols-1 md:grid-cols-2 gap-8 items-center">
-      <div class="xs:hidden md:flex">
+      <div>
         <img src="/cover.png" class="xs:w-[70%] md:w-auto xs:mx-auto md:mx-0" />
       </div>
 
